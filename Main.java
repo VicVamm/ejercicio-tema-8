@@ -13,7 +13,6 @@ public class Main {
 }
 class persona {
     //propiedades
-    //Utiliza los gets y sets para darle valores a las propiedades edad, nombre y telefono, por último muéstralas por consola.
     private int edad;
     private String nombre;
     private long telefono;
